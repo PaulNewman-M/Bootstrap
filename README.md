@@ -44,7 +44,7 @@ Left:A page without a meta viewport. Right: A page with a viewport matching the 
 <img src="http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1497648671/Screen_Shot_2017-06-16_at_2.27.29_PM_slmqtl.png">
 
 with meta viewport
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
+![alt-text-1](http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1497648671/Screen_Shot_2017-06-16_at_2.27.29_PM_slmqtl.png "title-1") ![alt-text-2](http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1495416674/Screen_Shot_2017-05-21_at_8.22.31_PM_jcgjlw.png "title-2")
 <img src="http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1495416674/Screen_Shot_2017-05-21_at_8.22.31_PM_jcgjlw.png">
 
 without meta Viewport
