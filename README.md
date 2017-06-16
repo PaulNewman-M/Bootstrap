@@ -40,10 +40,10 @@ A viewport controls how a webpage is displayed on a mobile device. Without a vie
 
 Left:A page without a meta viewport. Right: A page with a viewport matching the device width.
 
-<img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1497648671/Screen_Shot_2017-06-16_at_2.27.29_PM_slmqtl.png">
+<img src="http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_195,w_116/v1497648671/Screen_Shot_2017-06-16_at_2.27.29_PM_slmqtl.png">
 
 with meta viewport
 
-<img src="http://res.cloudinary.com/duqwfkttw/image/upload/v1495416674/Screen_Shot_2017-05-21_at_8.22.31_PM_jcgjlw.png">
+<img src="http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1495416674/Screen_Shot_2017-05-21_at_8.22.31_PM_jcgjlw.png">
 
 without meta Viewport
