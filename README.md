@@ -1,7 +1,7 @@
 #Bootstrap
 
 <b>Course By Brad Hussey</b>
-<a href="https://www.youtube.com/watch?v=a4tbhwMGSPQ&index=4&list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF"> Link to Couser By Brad Hussey</a>
+<a href="https://www.youtube.com/watch?v=a4tbhwMGSPQ&index=4&list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF"> Link to Course By Brad Hussey</a>
 
 Emmet:
 
