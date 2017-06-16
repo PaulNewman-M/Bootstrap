@@ -4,6 +4,8 @@
 <a href="https://www.youtube.com/watch?v=a4tbhwMGSPQ&index=4&list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF"> Link to Course By Brad Hussey</a>
 
 Emmet:
+***
+<a href="https://www.youtube.com/watch?v=BjLOTepfmEI"> How to Install Emmet packages to Sublime Text</a>
 
 ->Added packages to sublime 
 example:
