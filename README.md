@@ -35,16 +35,16 @@ Overview
 
 A viewport controls how a webpage is displayed on a mobile device. Without a viewport, mobile devices will render the page at a typical desktop screen width, scaled to fit the screen. Setting a viewport gives control over the page's width and scaling on different devices.
 
-<img src="https://developers.google.com/speed/docs/insights/images/viewport/iphone_no_viewport.jpg">
-<img src="https://developers.google.com/speed/docs/insights/images/viewport/iphone_viewport.jpg">
+![alt-text-1](https://developers.google.com/speed/docs/insights/images/viewport/iphone_no_viewport.jpg "title-1") ![alt-text-2](https://developers.google.com/speed/docs/insights/images/viewport/iphone_viewport.jpg "title-2")
+
 
 Left:A page without a meta viewport. Right: A page with a viewport matching the device width.
 
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
-<img src="http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1497648671/Screen_Shot_2017-06-16_at_2.27.29_PM_slmqtl.png">
+***
 
-with meta viewport
+with and without meta Viewport:
+
 ![alt-text-1](http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1497648671/Screen_Shot_2017-06-16_at_2.27.29_PM_slmqtl.png "title-1") ![alt-text-2](http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1495416674/Screen_Shot_2017-05-21_at_8.22.31_PM_jcgjlw.png "title-2")
-<img src="http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1495416674/Screen_Shot_2017-05-21_at_8.22.31_PM_jcgjlw.png">
 
-without meta Viewport
+
+
