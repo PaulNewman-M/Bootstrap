@@ -36,5 +36,6 @@ Overview
 A viewport controls how a webpage is displayed on a mobile device. Without a viewport, mobile devices will render the page at a typical desktop screen width, scaled to fit the screen. Setting a viewport gives control over the page's width and scaling on different devices.
 
 <img src="https://developers.google.com/speed/docs/insights/images/viewport/iphone_no_viewport.jpg">
+<img src="https://developers.google.com/speed/docs/insights/images/viewport/iphone_viewport.jpg">
 
 Left:A page without a meta viewport. Right: A page with a viewport matching the device width.
