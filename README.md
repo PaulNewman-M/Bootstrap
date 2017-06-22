@@ -46,5 +46,13 @@ with and without meta Viewport:
 
 ![alt-text-1](http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1497648671/Screen_Shot_2017-06-16_at_2.27.29_PM_slmqtl.png "title-1") ![alt-text-2](http://res.cloudinary.com/duqwfkttw/image/upload/c_scale,h_297,w_156/v1495416674/Screen_Shot_2017-05-21_at_8.22.31_PM_jcgjlw.png "title-2")
 
+<b>Flex box /Bootstrap</b>
+
+* Bootstrap has large libraries 
+* Flex Box is only for different grid Sessions 
+
+<b> 30 Selectors need to be known </b>
+<a href="https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048">The 30 CSS Selectors You Must Memorize</a>
+
 
 
